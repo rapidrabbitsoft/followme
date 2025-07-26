@@ -2,7 +2,7 @@
 FollowMe - A command-line tool to track and report URL redirects.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from .core import log_redirects, format_report
 

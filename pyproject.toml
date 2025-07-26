@@ -8,12 +8,15 @@ exclude = ["build_env*", "venv*", "pypi_env*"]
 
 [project]
 name = "followme"
-version = "1.0.0"
+version = "1.0.1"
 description = "A command-line tool to track and report URL redirects"
 readme = "README.md"
 license = "MIT"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Rapid Rabbit Software", email = "python@rapidrabbit.software"}
+]
+maintainers = [
+    {name = "Rapid Rabbit Software", email = "python@rapidrabbit.software"}
 ]
 keywords = ["url", "redirect", "tracking", "command-line", "tool"]
 classifiers = [
