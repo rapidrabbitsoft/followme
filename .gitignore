@@ -177,4 +177,7 @@ $RECYCLE.BIN/
 # Project specific
 *.log
 output/
-reports/ 
+reports/
+
+# PyPI configuration (contains credentials)
+.pypirc 
